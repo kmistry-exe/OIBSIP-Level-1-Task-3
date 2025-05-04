@@ -20,4 +20,4 @@ An interactive tool to convert between Celsius, Fahrenheit, and Kelvin.
 - Optional: Kelvin conversion
 
 ## 🌐 Live Demo
-You can view the live demo of the project [here](https://kmistry-exe.github.io/OIBSIP-Level-1-Task-3/).
+You can view the live demo of the project [here](https://kmistry-exe.github.io/OIBSIP-Level-1-Task-3-Mar22/).
